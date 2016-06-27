@@ -1,0 +1,22 @@
+<style>
+	body{
+		text-align:center;
+	}
+
+	h1{
+		font-size: 48;
+		font-family: Times New Roman;
+	}
+
+	h2{
+		font-size: 24;
+		font-family: Times New Roman;
+	}
+</style>
+<body>
+	<div id="main-container">
+		<h1>Claude Shannon</h1>
+		<h2>the father of information theory</h2>
+		<img src="http://www.newyorker.com/wp-content/uploads/2016/04/Roberts-Claude-Shannon-1200x630-1461943553.jpg"></img>
+	</div>
+</body>
